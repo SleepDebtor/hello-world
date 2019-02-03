@@ -1,3 +1,4 @@
 # hello-world
 
-just some stuff to say about me
+Looking to learn to use a git repositoy.
+coding is fun
